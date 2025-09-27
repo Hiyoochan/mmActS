@@ -3,14 +3,14 @@
 
 ## 👩🏻‍💻 Overview
 
-Welcome! This is the official repo of the MICCAI Workshop HAIC 2025 paper ["Learning What is Worth Learning: Active and Sequential Domain Adaptation for Multi-modal Gross Tumor Volume Segmentation"](https://arxiv.org/abs/2508.20528). 
+Welcome! This is the official repo of the MICCAI Workshop HAIC 2025 paper:
+["Learning What is Worth Learning: Active and Sequential Domain Adaptation for Multi-modal Gross Tumor Volume Segmentation"](https://arxiv.org/abs/2508.20528). 
 
 - Jingyun Yang, Guoqing Zhang, Jingge Wang, Yang Li
 
 
 ### Goal
 - Advance gross tumor volume segmentation on multi-modal data in a source-free manner.
-- <img width="842" height="372" alt="image" src="https://github.com/user-attachments/assets/b6915f4e-38b4-4747-8337-4b72586198f2" />
 
 ## 🪜 Framework
 An Active and Sequential Domain Adaptation Framework for Multi-Modal Gross Tumor Volume Segmentation
@@ -18,7 +18,8 @@ An Active and Sequential Domain Adaptation Framework for Multi-Modal Gross Tumor
 
 
 ## 🧀 Results
-![Uploading image.png…]()
+- <img width="842" height="372" alt="image" src="https://github.com/user-attachments/assets/b6915f4e-38b4-4747-8337-4b72586198f2" />
+
 
 
 
