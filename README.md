@@ -1,4 +1,3 @@
-# mmActS
 # Learning what is worth learning: active multi-modal tumor segmentation
 
 ## 👩🏻‍💻 Overview
